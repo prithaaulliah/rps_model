@@ -11,4 +11,4 @@ Preprocessing Model 1 & 2 : resize(150,150), rotation_range=15, horizontal_flip=
 1. ResNet Model
    summary Model 1
    
-![Uploading image.png…]()
+
