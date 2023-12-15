@@ -32,5 +32,14 @@ Evaluation Matrix Model MobileNet
 
 ![Screenshot (588)](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/0e66abc9-0c99-4a6a-b972-be95b467703c)
 
+# Flask 
+Flask adalah sebuah framework web mikro yang ditulis dalam bahasa pemrograman Python. Flask dirancang untuk menjadi ringan dan mudah digunakan, memberikan kebebasan lebih besar kepada pengembang untuk memilih komponen lain (seperti sistem basis data) dan alat-alat lainnya saat membangun aplikasi web.
 
+# Deployment Web Classification Rock, Paper, Scissors Menggunakan Flask
+1. Upload Gambar
+![Screenshot (590)](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/94447ff0-c030-4f65-8c97-048dd0e189e3)
+
+2. Hasil Prediksi
+
+![Screenshot (578)](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/bccaba9d-f9c1-4733-aecb-0691e9fd3614)
 
