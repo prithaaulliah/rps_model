@@ -17,7 +17,8 @@ Graph Loss dan Accuracy Model Resnet:
 ![Screenshot (584)](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/60c362e9-35b0-42ef-aadd-4f7ce06a4c08)
 
 Evaluation Matrix Model Resnet
-![image](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/46e4c9ef-dad5-4c85-a147-a0d8a8fbf5b2)
+
+![Screenshot (589)](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/1e3f4a33-b2ac-4b4c-88cc-549b917867e9)
 
 2. MobileNet Model
    Summary Model 2
